@@ -24,15 +24,6 @@ const Navbar1 = () => {
   </div>
 
 </div>
-<section className="section">
-
-  <div className="row-content">
-    <h2>Responsive Navigation Bar</h2>
-    <p>Using CSS and a little bit Javascript </p>
-    <p>Resize the browser to see the Result </p>
-  </div>
-
-</section>
         </div>
       )
     }
