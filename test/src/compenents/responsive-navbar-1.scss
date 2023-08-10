@@ -6,9 +6,6 @@
 body {
   font-family: sans-serif;
 }
-ul {
-  list-style: none;
-}
 .container {
   height: 60px;
   width: 100%;
@@ -31,6 +28,7 @@ ul {
   ul {
     display: flex;
     padding: 0;
+    list-style: none;
 
     li {
       list-style-type: none;
