@@ -15,17 +15,16 @@ body {
   padding: 0.5rem 0rem;
   box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
 }
-.logo {
-  text-decoration: none;
-  color: black;
-  font-size: 1.3rem;
-  margin-left: 1rem;
-}
+
 .navbar {
   margin-left: auto;
-}
-.main-menu {
-  ul {
+  .logo {
+    text-decoration: none;
+    color: black;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+  }
+  .main-menu {
     display: flex;
     padding: 0;
     list-style: none;
