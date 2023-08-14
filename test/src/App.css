@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+.container {
+	max-width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 1rem;
+  }
